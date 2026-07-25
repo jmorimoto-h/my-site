@@ -26,11 +26,8 @@ author:
   name             : "Julian Morimoto"
   pronouns         : # example: "she/her"  
   bio              : "tktktktk"
-location: |
-  Berkeley, CA
-  Stanford, CA
-  Washington, DC
-  employer         : "Red Brick University"
+location: Berkeley, CA; Stanford, CA; Washington, DC
+  employer         : "University of California, Berkeley; Stanford University; World Bank Group"
   uri              : # URL
   email            : "none@example.org" 
 
