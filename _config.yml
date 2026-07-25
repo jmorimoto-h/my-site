@@ -26,8 +26,10 @@ author:
   name             : "Julian Morimoto"
   pronouns         : "he/him"  
   bio              : "Researcher and Analyst"
-  location         : "Berkeley, CA; Stanford, CA; Washington, D.C."
-  employer: "University of California, Berkeley"
+  location: "Berkeley, CA"
+  location: "Stanford, CA"
+  location: "Washington, D.C."
+  employer: "UC Berkeley"
   employer: "Stanford University"
   employer: "World Bank Group"
   # uri              : # URL
