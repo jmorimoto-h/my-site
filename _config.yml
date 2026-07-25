@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Julian Morimoto"
   pronouns         : "he/him"  
-  bio              : "tktktktk"
+  bio              : "Researcher and Analyst"
   location         : "Berkeley, CA; Stanford, CA; Washington, D.C."
-  employer         : "University of California, Berkeley; Stanford University; World Bank Group"
+  employer: "University of California, Berkeley<br>Stanford University<br>World Bank Group"
   # uri              : # URL
   # email            : "none@example.org" 
 
