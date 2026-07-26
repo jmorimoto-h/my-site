@@ -22,9 +22,9 @@ News
 News
 ======
 
-**[DATE]** — [*Judging the Judges: Evaluating Pretrial Release Decisions with A Simple Nonparametric Approach*](LINK), with Amanda Coston, was published in the 2026 ACM Conference on Fairness, Accountability, and Transparency.
+**[DATE]** — [*Judging the Judges: Evaluating Pretrial Release Decisions with A Simple Nonparametric Approach*](https://dl.acm.org/doi/10.1145/3805689.3812209), with Amanda Coston, was published in the 2026 ACM Conference on Fairness, Accountability, and Transparency.
 
-**[DATE]** — [*Near-Exponential Savings for Population Mean Estimation with Active Learning*](LINK), with Jacob Goldin and Daniel E. Ho, was published at the Thirty-ninth Annual Conference on Neural Information Processing Systems.
+**[DATE]** — [*Near-Exponential Savings for Population Mean Estimation with Active Learning*](https://neurips.cc/virtual/2025/loc/san-diego/poster/118037), with Jacob Goldin and Daniel E. Ho, was published at the Thirty-ninth Annual Conference on Neural Information Processing Systems.
 
 **[DATE]** — The World Bank Group published [*Women, Business and the Law 2026*](LINK).
 
