@@ -11,7 +11,7 @@ Hello! I am a Ph.D. candidate in Statistics at UC Berkeley, Graduate Student Fel
 
 I hold a J.D. from Harvard University and a B.A. in Mathematics from Case Western Reserve University. 
 
-I have also worked with Western Ballet, Dance Connection Palo Alto, Cardinal Ballet Company, Ballet Company at Berkeley, and the Harvard Ballet Company as a performing artist.
+I have also worked as an artist with Western Ballet, Dance Connection Palo Alto, Cardinal Ballet Company, Ballet Company at Berkeley, and the Harvard Ballet Company.
 
 Below is a collection of recent news. Please navigate to the Publications, Other Research, and Talks tabs for more detailed information. 
 
