@@ -19,4 +19,15 @@ Below is a collection of recent news. Please navigate to the Publications, Other
 
 News 
 ======
-tkkttktk
+News
+======
+
+**[DATE]** — [*Judging the Judges: Evaluating Pretrial Release Decisions with A Simple Nonparametric Approach*](LINK), with Amanda Coston, was published in the 2026 ACM Conference on Fairness, Accountability, and Transparency.
+
+**[DATE]** — [*Near-Exponential Savings for Population Mean Estimation with Active Learning*](LINK), with Jacob Goldin and Daniel E. Ho, was published at the Thirty-ninth Annual Conference on Neural Information Processing Systems.
+
+**[DATE]** — The World Bank Group published [*Women, Business and the Law 2026*](LINK).
+
+**[DATE]** — The World Bank published [*Service Delivery Indicators (SDI) Health Survey for Ukraine Survey Report 2024*](LINK).
+
+**[DATE]** — [*Laws, Data, and Empowerment: Insights from UNDP’s Women’s Empowerment Index and World Bank’s Women, Business and the Law Index*](LINK), with Yu-Chieh Hsu, Ana Maria Tribin Uribe, Hikaru Yamagishi, and Yanchun Zhang, was published on the World Bank’s *Let’s Talk Development* blog.
