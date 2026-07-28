@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-{% include cv-template.html %}
-
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
-  <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
+  <a href="https://www.dropbox.com/scl/fi/9ims9p7fxn03n9w6ok4ue/Morimoto-CV.docx?rlkey=7y5stlck2otikaat06qe9rbhl&st=m7lr7bxt&dl=0" class="btn btn--primary">View CV</a>
 </div>
