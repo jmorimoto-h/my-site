@@ -10,5 +10,10 @@ redirect_from:
 {% include base_path %}
 
 <div class="cv-download-links">
-  <a href="https://www.dropbox.com/scl/fi/d1bbqagem7gs4vao8d7fc/Morimoto-CV.docx?rlkey=p2kqu0lscm444eaflbe5mykwc&st=3b0zuhgu&dl=0" class="btn btn--primary">View CV</a>
+  <a href="https://www.dropbox.com/scl/fi/d1bbqagem7gs4vao8d7fc/Morimoto-CV.docx?rlkey=p2kqu0lscm444eaflbe5mykwc&dl=0"
+     class="btn btn--primary"
+     target="_blank"
+     rel="noopener noreferrer">
+    View CV
+  </a>
 </div>
